@@ -18,12 +18,12 @@ export default function WebHeader() {
         <div>
             <nav id="navabarTab" className="navbar navbar-expand-lg px-md-5 px-2 p-2">
                 <div className="container-fluid px-0" style={{ "borderBottom": "0.5px solid rgba(255, 255, 255, 0.9)" }}>
-                    <a className="navbar-brand d-md-inline d-none d-flex align-items-center" href="index.html">
+                    <a className="navbar-brand d-md-inline d-none d-flex align-items-center" href="/">
                         <div className="d-flex align-items-center">
                             <img src="./image/tripDayImg.svg" className="w-50" alt="" />
                         </div>
                     </a>
-                    <a className="navbar-brand d-md-none d-inline w-50" href="index.html">
+                    <a className="navbar-brand d-md-none d-inline w-50" href="/">
                         <img src="./image/tripDayImg.svg" className="" alt="" />
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
